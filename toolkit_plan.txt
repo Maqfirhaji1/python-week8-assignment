@@ -1,0 +1,65 @@
+PLP PYTHON WEEK 8 — PERSONAL MINI-TOOLKIT
+=========================================
+
+PROJECT PLAN
+------------
+
+My toolkit will contain three useful tools:
+
+1. Simple Calculator
+   The calculator performs addition, subtraction, multiplication, and division using two numbers.
+
+2. To-Do List
+   The to-do list allows the user to add tasks, view tasks, and remove tasks while the program is running.
+
+3. Number Guessing Game
+   The guessing game generates a secret number and gives the user repeated attempts to guess it.
+
+MENU TEXT
+---------
+
+Welcome to My Personal Mini-Toolkit!
+
+Please choose a tool:
+
+1. Calculator
+2. To-Do List
+3. Number Guessing Game
+4. Quit
+
+TOOLS AND PYTHON CONCEPTS
+-------------------------
+
+Calculator:
+- Variables
+- Input and output
+- Conditionals
+- Arithmetic operators
+- Loops through the main menu
+- f-strings
+
+To-Do List:
+- Lists
+- append()
+- remove()
+- in membership checking
+- for loop
+- Conditionals
+- f-strings
+
+Number Guessing Game:
+- Variables
+- while loop
+- Conditionals
+- Random numbers
+- User input
+- f-strings
+
+MAIN PROGRAM
+------------
+
+The program will use a loop to keep displaying the menu until the user selects Quit.
+
+An if / elif / else structure will determine which tool runs.
+
+Invalid menu choices will display a friendly message instead of crashing the program.
